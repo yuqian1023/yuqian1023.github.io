@@ -11,7 +11,9 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Qian Yu (于茜)
-  tagline: Associate Professor, Beihang University
+  tagline: >
+   Researcher 
+   Beihang
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
