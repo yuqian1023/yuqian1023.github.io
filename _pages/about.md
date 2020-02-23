@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate professor at Beihang University. Before I joined Beihang, I was a postdoctoral research fellow at UC Berkeley / ICSI during 2018~2019, working with Prof. Stella Yu. I received my Ph.D. degree from QMUL-SketchX Lab in 2018, advised by Dr. Yi-Zhe Song and Prof. Tao Xiang.
+I am an associate professor at the [School of Software Engineering, Beihang University](http://soft.buaa.edu.cn/). Before I joined Beihang, I was a postdoctoral research fellow at [UC Berkeley] / [ICSI] during 2018~2019, working with Prof. [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/). I received my Ph.D. degree from QMUL-SketchX Lab in 2018, advised by Dr. [Yi-Zhe Song](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and Prof. [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
-My research interests focuses on computer vision and deep learning, particular on sketch understanding, like recognition, retrieval, synthesis, and sketch-related applications.
+My research is on computer vision and deep learning, with a foucs on sketch understanding, like synthesis, recognition, and related applications.
 
 I am actively looking for highly-motivated graduate students. If you are interested in pursuing a Master degree in computer vision, please send me an email qianyu@buaa.edu.cn.
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
