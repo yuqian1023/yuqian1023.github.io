@@ -1,5 +1,5 @@
 ---
-title: "An Unpaired Sketch-to-Photo Translation Model (preprint)"
+title: "An Unpaired Sketch-to-Photo Translation Model"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-9
 excerpt: 'Runtao Liu, Qian Yu, Stella Yu.'
