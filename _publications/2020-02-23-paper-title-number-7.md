@@ -2,11 +2,12 @@
 title: "Sketch-a-Net that Beats Humans"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-7
-excerpt: 'The first paper applying deep learning method on sketch recognition. Best Science Paper Award of BMVC 2015'
-date: 2015-10-01
-venue: 'BMVC'
-citation: 'Qian Yu. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Qian Yu*, Yongxin Yang*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales'
+date: 2015-09-14
+venue: 'British Machine Vision Conference (BMVC)'
 ---
-The first paper applying deep learning method on sketch recognition.
+Qian Yu*, Yongxin Yang*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
 
-[Paper](http://www.eecs.qmul.ac.uk/~tmh/papers/yu2015sketchanet.pdf)
+We propose a multi-scale multi-channel deep neural network framework that, for the first time, yields sketch recognition performance surpassing that of humans. Our superior performance is a result of explicitly embedding the unique characteristics of sketches in our model.
+
+This paper won the Best Science Paper at the British Machine Vision Conference 2015. The conferencde version is [here](http://www.eecs.qmul.ac.uk/~tmh/papers/yu2015sketchanet.pdf) and its [extension](https://www.eecs.qmul.ac.uk/~qian/Qian's%20Materials/paper/IJCV_revised_version.pdf) was published in IJCV.
