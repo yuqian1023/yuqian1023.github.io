@@ -11,7 +11,7 @@ I am an associate professor at the [School of Software Engineering, Beihang Univ
 
 My research is on computer vision and deep learning, with a foucs on sketch understanding, like synthesis, recognition, and related applications.
 
-I am actively looking for highly-motivated graduate students. If you are interested in pursuing a Master degree in computer vision, please send me an email qianyu@buaa.edu.cn.
+I am actively looking for highly-motivated graduate students. If you are interested in pursuing a Master degree in computer vision, please send me an email [qianyu@buaa.edu.cn](qianyu@buaa.edu.cn).
 
 A data-driven personal website
 ======
