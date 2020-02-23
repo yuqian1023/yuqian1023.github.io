@@ -4,10 +4,8 @@ title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-I'm an associate professor at Beihang University. Before I joined Beihang, I was a postdoctoral research fellow at UC Berkeley / ICSI during 2018~2019, working with Prof. Stella Yu. I received my Ph.D. degree from QMUL-SketchX Lab in 2014, advised by Dr. Yi-Zhe Song and Prof. Tao Xiang.
-
+I am an associate professor at Beihang University. Before I joined Beihang, I was a postdoctoral research fellow at UC Berkeley / ICSI during 2018~2019, working with Prof. Stella Yu. I received my Ph.D. degree from QMUL-SketchX Lab in 2014, advised by Dr. Yi-Zhe Song and Prof. Tao Xiang.
 My research interest focuses on sketch understanding, including recognition, retrieval, synthesis, and sketch-related applications.
-
 I am actively looking for highly-motivated graduate students. If you are interested in pursuing a Master degree in computer vision, please send me an email qianyu@buaa.edu.cn.
 
 ```javascript
