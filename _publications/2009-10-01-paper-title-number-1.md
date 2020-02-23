@@ -6,8 +6,7 @@ excerpt: 'This paper is about scene-level semantic segmentation in sketches.'
 date: 2018-10-01
 venue: 'European Conference on Computer Vision (ECCV)'
 ---
-#SketchyScene: Richly-Annotated Scene Sketches
-
-#[Download paper here](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf)
-
-#Recommended citation: Qian Yu. (2018). "Paper Title Number 1." <i>ECCV</i>. 1(1).
+[Project Page](https://sketchyscene.github.io/SketchyScene/)
+[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf)
+[Supplementary](https://www.eecs.qmul.ac.uk/~qian/Qian's%20Materials/paper/sketchyScene_supplementary_eccv18.pdf)
+[Github](https://github.com/SketchyScene/SketchyScene)
