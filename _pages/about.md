@@ -11,9 +11,6 @@ I am an associate professor at the [School of Software Engineering, Beihang Univ
 
 My research is on computer vision and deep learning, with a foucs on sketch understanding, like synthesis, recognition, and related applications.
 
-I am actively looking for highly-motivated graduate students. If you are interested in my research, feel free to drop me an email [qianyu@buaa.edu.cn](qianyu@buaa.edu.cn).
-
-
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am actively looking for highly-motivated graduate students. If you are interested in my research, feel free to drop me an email [qianyu@buaa.edu.cn](qianyu@buaa.edu.cn).
