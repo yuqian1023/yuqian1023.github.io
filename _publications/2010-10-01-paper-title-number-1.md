@@ -1,7 +1,6 @@
 ---
 title: "Fine-grained Instance-level Sketch-based Image Retrieval"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 'This paper an extension work of Sketch Me that Shoe.'
 date: 2020-01-01
 ---
