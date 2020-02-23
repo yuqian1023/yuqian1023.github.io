@@ -1,7 +1,7 @@
 ---
 title: "Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-02-23-paper-title-number-3
 excerpt: 'Introduce an attention module for SBIR.'
 date: 2017-10-01
 venue: 'ICCV'
