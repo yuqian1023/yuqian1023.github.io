@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qian Yu (于茜)"
-  avatar           : "./images/Qian.jpeg"
+  avatar           : "Qian.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "419 GongXun Building, 37 Xueyuan Rd, Haidian District, Beijing"
   employer         :
