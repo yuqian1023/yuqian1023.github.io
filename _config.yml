@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qian's Website "
 title_separator          : "-"
-name                     : &name "Qian Yu (于茜)"
+name                     : &name "Qian Yu"
 description              : &description "Hope is a good thing maybe the best of things and no good thing ever dies."
 url                      : https://yuqian1023.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
