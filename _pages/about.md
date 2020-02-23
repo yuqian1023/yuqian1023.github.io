@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate professor at the [School of Software Engineering, Beihang University](http://soft.buaa.edu.cn/). Before I joined Beihang, I was a postdoctoral research fellow at [UC Berkeley] / [ICSI] during 2018~2019, working with Prof. [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/). I received my Ph.D. degree from QMUL-SketchX Lab in 2018, advised by Dr. [Yi-Zhe Song](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and Prof. [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
+I am an associate professor at the [School of Software Engineering, Beihang University](http://soft.buaa.edu.cn/). Before I joined Beihang, I was a postdoctoral research fellow at UC Berkeley / ICSI during 2018~2019, working with Prof. [Stella Yu](http://www1.icsi.berkeley.edu/~stellayu/). I received my Ph.D. degree from QMUL-SketchX Lab in 2018, advised by Dr. [Yi-Zhe Song](http://personal.ee.surrey.ac.uk/Personal/Y.Song/) and Prof. [Tao Xiang](http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html).
 
 My research is on computer vision and deep learning, with a foucs on sketch understanding, like synthesis, recognition, and related applications.
 
