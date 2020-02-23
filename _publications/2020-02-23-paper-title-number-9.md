@@ -1,5 +1,5 @@
 ---
-title: "An Unpaired Sketch-to-Photo Translation Model"
+title: "An Unpaired Sketch-to-Photo Translation Model (preprint)"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-9
 excerpt: 'Sketch-based Photo Synthesis.'
