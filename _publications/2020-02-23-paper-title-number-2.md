@@ -2,7 +2,7 @@
 title: "SketchyScene: Richly-Annotated Scene Sketches"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-2
-excerpt: 'This paper is about scene-level semantic segmentation in sketches.'
+excerpt: 'Scene-level semantic segmentation in sketches.'
 date: 2018-10-01
 venue: 'European Conference on Computer Vision (ECCV)'
 ---
