@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qian Yu (于茜)"
-  avatar           : "images/Qian.jpeg"
+  avatar           : "./images/Qian.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "http://soft.buaa.edu.cn/"
   employer         :
