@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-23-paper-title-number-7
 excerpt: 'Qian Yu*, Yongxin Yang*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales'
 date: 2015-09-14
-venue: 'British Machine Vision Conference (BMVC)'
+venue: 'British Machine Vision Conference (BMVC), Best Paper'
 ---
 Qian Yu*, Yongxin Yang*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
 

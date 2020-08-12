@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-23-paper-title-number-6
 excerpt: 'Qian Yu, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Chen Change Loy.'
 date: 2016-06-23
-venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
+venue: 'Conference on Computer Vision and Pattern Recognition (CVPR), Oral'
 ---
 Qian Yu, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Chen Change Loy
 
