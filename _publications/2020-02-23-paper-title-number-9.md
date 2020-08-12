@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-23-paper-title-number-0
 excerpt: 'Runtao Liu*, Qian Yu*, Stella X. Yu.'
 date: 2020-08-23
-venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
+venue: 'European Conference on Computer Vision (ECCV)'
 ---
 Runtao Liu*, Qian Yu*, Stella X. Yu
 
