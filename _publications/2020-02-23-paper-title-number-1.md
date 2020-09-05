@@ -1,7 +1,7 @@
 ---
 title: "Fine-grained Instance-level Sketch-based Image Retrieval"
 permalink: /publication/2020-02-23-paper-title-number-1
-excerpt: 'International Journal of Computer Vision'
+excerpt: 'International Journal of Computer Vision, DOI: 10.1007/s11263-020-01382-3'
 collection: publications
 date: 2020-09-01
 ---
