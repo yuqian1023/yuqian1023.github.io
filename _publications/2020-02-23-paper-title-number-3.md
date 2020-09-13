@@ -2,7 +2,7 @@
 title: "Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-3
-excerpt: 'Jifei Song*, Qian Yu*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales.'
+url_slug: 'Jifei Song, Qian Yu, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales.'
 date: 2017-10-23
 venue: 'International Conference on Computer Vision (ICCV)'
 ---

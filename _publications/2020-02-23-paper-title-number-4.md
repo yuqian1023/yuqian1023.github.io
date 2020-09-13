@@ -2,7 +2,7 @@
 title: "The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-4
-excerpt: 'Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang and Timothy M. Hospedales'
+url_slug: 'Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang and Timothy M. Hospedales'
 date: 2017-11-22
 venue: 'Arxiv'
 ---

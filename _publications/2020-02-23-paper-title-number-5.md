@@ -2,7 +2,7 @@
 title: "Sketch-a-Net: a Deep Neural Network that Beats Humans"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-5
-author: 'Qian Yu, Yongxin Yang, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales'
+url_slug: 'Qian Yu, Yongxin Yang, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales'
 date: 2017-05-01
 venue: 'International Journal of Computer Vision (IJCV)'
 ---
