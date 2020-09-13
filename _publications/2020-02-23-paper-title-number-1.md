@@ -1,7 +1,7 @@
 ---
 title: "Fine-grained Instance-level Sketch-based Image Retrieval"
 permalink: /publication/2020-02-23-paper-title-number-1
-url_slug: "Qian Yu\*, Jifei Song\*, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales"
+url_slug: "Qian Yu, Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales"
 date: 2020-09-05
 venue: "International Journal of Computer Vision (IJCV)"
 ---
