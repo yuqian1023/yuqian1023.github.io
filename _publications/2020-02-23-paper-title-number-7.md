@@ -6,7 +6,7 @@ url_slug: 'Qian Yu, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales'
 date: 2015-09-14
 venue: 'British Machine Vision Conference (BMVC), Best Paper'
 ---
-Qian Yu*, Yongxin Yang*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
+Qian Yu\*, Yongxin Yang\*, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
 
 We propose a multi-scale multi-channel deep neural network framework that, for the first time, yields sketch recognition performance surpassing that of humans. Our superior performance is a result of explicitly embedding the unique characteristics of sketches in our model.
 
