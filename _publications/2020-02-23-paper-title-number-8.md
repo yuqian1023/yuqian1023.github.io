@@ -2,7 +2,7 @@
 title: "Building Information Modeling and Classification by Visual Learning At A City Scale"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-8
-excerpt: 'Qian Yu, Chaofeng Wang, Barbaros Cetiner, Stella X. Yu, Frank Mckenna, Ertugrul Taciroglu, Kincho H. Law'
+url_slug: Qian Yu, Chaofeng Wang, Barbaros Cetiner, Stella X. Yu, Frank Mckenna, Ertugrul Taciroglu, Kincho H. Law
 venue: 'NeurIPS Workshop'
 date: 2019-12-13
 ---
