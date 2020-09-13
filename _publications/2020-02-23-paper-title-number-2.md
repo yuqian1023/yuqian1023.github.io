@@ -2,7 +2,7 @@
 title: "SketchyScene: Richly-Annotated Scene Sketches"
 collection: publications
 permalink: /publication/2020-02-23-paper-title-number-2
-excerpt: 'changqing Zou*, Qian Yu*, Ruofei Du, Haoran Mo, Yi-Zhe Song, Tao Xiang, Chengying Gao, Baoquan Chen, Hao Zhang.'
+excerpt: 'Changqing Zou, Qian Yu, Ruofei Du, Haoran Mo, Yi-Zhe Song, Tao Xiang, Chengying Gao, Baoquan Chen, Hao Zhang.'
 date: 2018-09-10
 venue: 'European Conference on Computer Vision (ECCV)'
 ---
