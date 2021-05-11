@@ -13,4 +13,4 @@ My research is on computer vision and deep learning, with a foucs on sketch unde
 
 For more info
 ------
-I am actively looking for highly-motivated students. If you are interested in my research, feel free to drop me an email [qianyu@buaa.edu.cn](qianyu@buaa.edu.cn).
+I am actively looking for highly-motivated <strong>Ph.D. </strong> and <strong>Master </strong> students. If you are interested in my research, feel free to drop me an email [qianyu@buaa.edu.cn](qianyu@buaa.edu.cn).
