@@ -7,4 +7,4 @@ venue: "International Journal of Computer Vision (IJCV)"
 ---
 Qian Yu\*, Jifei Song\*, Yi-Zhe Song, Tao Xiang, Timothy M Hospedales
 
-This paper an extension work of [Sketch Me that Shoe](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Sketch_Me_That_CVPR_2016_paper.pdf).
+This paper is an extended work of [Sketch Me that Shoe](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Sketch_Me_That_CVPR_2016_paper.pdf).
